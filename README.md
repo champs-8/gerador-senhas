@@ -43,7 +43,7 @@ Você pode testar o gerador de senhas diretamente no navegador acessando:
 
 ---
 
-##📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório
 ```
 /gerador-senhas
 ├── index.html        # Estrutura da página
